@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP
 C:\Users\User\OneDrive\Masaüstü\wpf2\ContactsApp\ContactsApp\App.xaml
-3-1047473602
+4-78632328
 
-7-296067399
+8430214920
 202-985297969
-Classes\ContactDetailsWindow.xaml;MainWindow.xaml;NewContactsWindow.xaml;
+Classes\ContactDetailsWindow.xaml;Controls\ContactControl.xaml;MainWindow.xaml;NewContactsWindow.xaml;
 
 False
 

@@ -51,3 +51,6 @@ C:\Users\User\OneDrive\Masaüstü\wpf2\ContactsApp\ContactsApp\bin\Debug\net8.0-
 C:\Users\User\OneDrive\Masaüstü\wpf2\ContactsApp\ContactsApp\obj\Debug\net8.0-windows\Contacts.D10E22FF.Up2Date
 C:\Users\User\OneDrive\Masaüstü\wpf2\ContactsApp\ContactsApp\obj\Debug\net8.0-windows\Classes\ContactDetailsWindow.g.cs
 C:\Users\User\OneDrive\Masaüstü\wpf2\ContactsApp\ContactsApp\obj\Debug\net8.0-windows\Classes\ContactDetailsWindow.baml
+C:\Users\User\OneDrive\Masaüstü\wpf2\ContactsApp\ContactsApp\obj\Debug\net8.0-windows\Controls\ContactControl.g.cs
+C:\Users\User\OneDrive\Masaüstü\wpf2\ContactsApp\ContactsApp\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\User\OneDrive\Masaüstü\wpf2\ContactsApp\ContactsApp\obj\Debug\net8.0-windows\Controls\ContactControl.baml
